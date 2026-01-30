@@ -1,4 +1,4 @@
-gi
+
 # 🎾 Tennis Lounge - Website
 
 > **Raquete e Conexão. Excelência e Paixão.**
