@@ -1,8 +1,4 @@
-Aqui está um README.md profissional e completo para o seu projeto, destacando a tecnologia moderna que você usou (React, Tailwind) e o propósito premium da marca.
-
-Você pode copiar o código abaixo e criar um arquivo chamado README.md na raiz do seu projeto.
-
-Markdown
+gi
 # 🎾 Tennis Lounge - Website
 
 > **Raquete e Conexão. Excelência e Paixão.**
